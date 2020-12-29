@@ -1,9 +1,7 @@
 # Libraries
 *.lvlibp
-*.llb
 
 # Shared objects (inc. Windows DLLs)
-*.dll
 *.so
 *.so.*
 *.dylib
@@ -14,4 +12,5 @@
 # Metadata
 *.aliases
 *.lvlps
+*.bin3
 .cache/
